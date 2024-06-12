@@ -28,4 +28,4 @@ Este repositorio contiene el material del proyecto *Predicción de Series Tempor
 
 | Número | Nombre | Fecha | Descripción | Archivo |
 | ------ | ------ | ----- | ----------- | ------- |
-| . | . | . | . | . |
+| 1 | Análisis y Visualización | 01/07/2024 | *Resolución personal* | [TP1 - Ej. 1 a 4 - Personal](./entregables/tp1/personal.ipynb) |
