@@ -26,6 +26,6 @@ Este repositorio contiene el material del proyecto *Predicción de Series Tempor
 
 ### Entregables
 
-| Número | Nombre | Fecha | Descripción | Archivo |
-| ------ | ------ | ----- | ----------- | ------- |
-| 1 | Análisis y Visualización | 01/07/2024 | *Resolución personal* | [TP1 - Completo - Personal](./entregables/tp1/personal.ipynb) |
+| Número | Nombre | Fecha | Archivo personal | Archivo grupal |
+| ------ | ------ | ----- | ---------------- | -------------- |
+| 1 | Análisis y Visualización | 01/07/2024 | [Completo](./entregables/tp1/personal.ipynb) | [Completo](./entregables/tp1/grupal.ipynb) |
