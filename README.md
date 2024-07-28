@@ -30,4 +30,4 @@ Este repositorio contiene el material del proyecto *Predicción de Series Tempor
 | Número | Nombre | Fecha | Archivo personal | Archivo grupal |
 | ------ | ------ | ----- | ---------------- | -------------- |
 | 1 | Análisis y Visualización | 01/07/2024 | [Completo](./entregables/tp1/personal.ipynb) | [Completo](./entregables/tp1/grupal.ipynb) |
-| 2 | Exploración y Curación de Datos | 29/07/2024 | [*En proceso*](./entregables/tp2/personal.ipynb) | |
+| 2 | Exploración y Curación de Datos | 29/07/2024 | [Completo](./entregables/tp2/personal.ipynb) | |
