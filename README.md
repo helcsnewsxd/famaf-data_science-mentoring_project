@@ -31,3 +31,9 @@ Este repositorio contiene el material del proyecto *Predicción de Series Tempor
 | ------ | ------ | ----- | ---------------- | -------------- |
 | 1 | Análisis y Visualización | 01/07/2024 | [Completo](./entregables/tp1/personal.ipynb) | [Completo](./entregables/tp1/grupal.ipynb) |
 | 2 | Exploración y Curación de Datos | 29/07/2024 | [Completo](./entregables/tp2/personal.ipynb) | [Completo](./entregables/tp2/grupal.ipynb) |
+
+### Presentaciones
+
+| Tema | Filminas | Video |
+| ---- | -------- | ----- |
+| Video intermedio | [Filminas](./presentaciones/intermedia/Machine%20Learning%20en%20Series%20Temporales%20-%20Presentación%20Intermedia.pdf) | [Drive](https://drive.google.com/file/d/1vLh94vhtoHkniW_N4yZ3WwlQeR_TGyDL/view?usp=sharing) |
