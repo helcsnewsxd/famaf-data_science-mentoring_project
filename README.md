@@ -27,11 +27,11 @@ Este repositorio contiene el material del proyecto *Predicción de Series Tempor
 
 ### Entregables
 
-| Número | Nombre                                     | Fecha      | Archivo personal                             | Archivo grupal                             |
-| ------ | ------------------------------------------ | ---------- | -------------------------------------------- | ------------------------------------------ |
-| 1      | Análisis y Visualización                   | 01/07/2024 | [Completo](./entregables/tp1/personal.ipynb) | [Completo](./entregables/tp1/grupal.ipynb) |
-| 2      | Exploración y Curación de Datos            | 29/07/2024 | [Completo](./entregables/tp2/personal.ipynb) | [Completo](./entregables/tp2/grupal.ipynb) |
-| 3      | Aprendizaje Supervisado y/o No Supervisado | 23/09/2024 | [Completo](./entregables/tp3/personal.ipynb) |                                            |
+| Número | Nombre                                     | Fecha      | Archivo personal                             | Archivo grupal                               |
+| ------ | ------------------------------------------ | ---------- | -------------------------------------------- | -------------------------------------------- |
+| 1      | Análisis y Visualización                   | 01/07/2024 | [Completo](./entregables/tp1/personal.ipynb) | [Completo](./entregables/tp1/grupal.ipynb)   |
+| 2      | Exploración y Curación de Datos            | 29/07/2024 | [Completo](./entregables/tp2/personal.ipynb) | [Completo](./entregables/tp2/grupal.ipynb)   |
+| 3      | Aprendizaje Supervisado y/o No Supervisado | 23/09/2024 | [Completo](./entregables/tp3/personal.ipynb) | [Completo](./entregables/tp3/personal.ipynb) |
 
 ### Presentaciones
 
