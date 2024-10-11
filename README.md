@@ -1,8 +1,8 @@
 # Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - 2024
 
-## Proyecto de Mentoría: *Predicción de Series Temporales Financieras con Machine Learning*
+## Proyecto de Mentoría: _Predicción de Series Temporales Financieras con Machine Learning_
 
-Este repositorio contiene el material del proyecto *Predicción de Series Temporales Financieras con Machine Learning* correspondiente a la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones de la Facultad de Matemática, Astronomía, Física y Computación de la Universidad Nacional de Córdoba.
+Este repositorio contiene el material del proyecto _Predicción de Series Temporales Financieras con Machine Learning_ correspondiente a la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones de la Facultad de Matemática, Astronomía, Física y Computación de la Universidad Nacional de Córdoba.
 
 ### Mentor
 
@@ -38,3 +38,4 @@ Este repositorio contiene el material del proyecto *Predicción de Series Tempor
 | Tema             | Filminas                                                                                                                  | Video                                                                                       |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | Video intermedio | [Filminas](./presentaciones/intermedia/Machine%20Learning%20en%20Series%20Temporales%20-%20Presentación%20Intermedia.pdf) | [Drive](https://drive.google.com/file/d/1vLh94vhtoHkniW_N4yZ3WwlQeR_TGyDL/view?usp=sharing) |
+| Video final      | [Filminas](./presentaciones/final/Machine%20Learning%20en%20Series%20Temporales%20-%20Presentación%20final.pdf)           | [Drive](https://drive.google.com/file/d/1uwfd6tEc23cwv3ucpJfu1NEspuOoryEJ/view?usp=sharing) |
